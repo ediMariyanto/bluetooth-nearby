@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothScanNearby</string>
+    <string name="bluetooth_scan_nearby">Bluetooth Scan Nearby</string>
+</resources>
